@@ -17,7 +17,5 @@ I am an ambitious **Software Engineer** specializing in deterministic system man
 ### 🛠️ Core Competencies
 - **Primary Dialects:** Python, C++
 - **Focus Areas:** Localized AI deployment, OS-level sub-processing, and systems architecture.
-
----
  • [Contact](iddy.engima@gmail.com)  for any requests you want me to build
 
